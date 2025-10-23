@@ -25,7 +25,7 @@
   },
   {
     "signal": "B64 VGhlIHdlYiBvZiBvdXIgbGlmZSBpcyBvZiBhIG1pbmdsZWQgeWFybiwgZ29vZCBhbmQgaWxsIHRvZ2V0aGVyLg== SHA256:2b6c5a786b627b3d14d4413e343a8ff577929f93cba55e6d9bf805ac5fd362a6 0000000000000000000 /B64",
-    "act": "2",
+    "act": "4",
     "solution": "The web of our life is of a mingled yarn, good and ill together.",
     "level": 5
   },
@@ -49,13 +49,13 @@
   },
   {
     "signal": "B64 T3VyIGRvdWJ0cyBhcmUgdHJhaXRvcnMsIGFuZCBtYWtlIHVzIGxvc2UgdGhlIGdvb2Qgd2Ugb2Z0IG1pZ2h0IHdpbiBieSBmZWFyaW5nIHRvIGF0dGVtcHQu MD5:ebf68f1f96e2461a156f0a7e5e89fc87 0000000000000000000000 /B64",
-    "act": "2",
+    "act": "1",
     "solution": "Our doubts are traitors, and make us lose the good we oft might win by fearing to attempt.",
     "level": 9
   },
   {
     "signal": "B64 V2UgYXJlIHN1Y2ggc3R1ZmYgYXMgZHJlYW1zIGFyZSBtYWRlIG9uLCBhbmQgb3VyIGxpdHRsZSBsaWZlIGlzIHJvdW5kZWQgd2l0aCBhIHNsZWVwLiBBRiAyMDI1 MD5:6a9ca020e00921e30849add411165ed8 000000000000000000 /B64",
-    "act": "2",
+    "act": "4",
     "solution": "We are such stuff as dreams are made on, and our little life is rounded with a sleep.",
     "level": 10
   }
