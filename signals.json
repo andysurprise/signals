@@ -6,15 +6,13 @@
     "level": 1
   },
   {
-    "signal": "B64 VGhvdSBoYXN0IGNyZWF0ZWQgYSB0aGluZyBzbyBtb25zdHJvdXPigKY= SHA256:518860526031b1519860b983d335f1111c5f9468fed8551bff9686aec6837f41 000000000000000000000000000000000000000000000000000 /B64
-",
+    "signal": "B64 VGhvdSBoYXN0IGNyZWF0ZWQgYSB0aGluZyBzbyBtb25zdHJvdXPigKY= SHA256:518860526031b1519860b983d335f1111c5f9468fed8551bff9686aec6837f41 000000000000000000000000000000000000000000000000000 /B64",
     "act": "5",
     "solution": "Thou hast created a thing so monstrous",
     "level": 2
   },
   {
-    "signal": "B64 VGhlIHB1cnBvc2Ugb2YgcGxheWluZ+KApiBpcyB0byBob2xkIGFzICd0d2VyZSB0aGUgbWlycm9yIHVwIHRvIG5hdHVyZS4= SHA256:ef35f33e85a90db0351f2ba10908df684720fe85b6e2f905c31a5471a14d538b 00000000000 /B64
-",
+    "signal": "B64 VGhlIHB1cnBvc2Ugb2YgcGxheWluZ+KApiBpcyB0byBob2xkIGFzICd0d2VyZSB0aGUgbWlycm9yIHVwIHRvIG5hdHVyZS4= SHA256:ef35f33e85a90db0351f2ba10908df684720fe85b6e2f905c31a5471a14d538b 00000000000 /B64",
     "act": "2",
     "solution": "The purpose of playing is to hold as ’twere the mirror up to nature.",
     "level": 3
