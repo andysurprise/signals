@@ -1,0 +1,62 @@
+[
+  {
+    "signal": "💨💨💨",
+    "act": "breath",
+    "solution": "In the first breath of morning, wisdom awakens from the sleeping earth.",
+    "level": 1
+  },
+  {
+    "signal": "🌊🌊🌊",
+    "act": "water",
+    "solution": "From the flowing waters of the sacred river, clarity is found in reflection.",
+    "level": 2
+  },
+  {
+    "signal": "🔥🔥🔥",
+    "act": "fire",
+    "solution": "Through the flames of trial and transformation, truth emerges purified.",
+    "level": 3
+  },
+  {
+    "signal": "🌙✨🌙",
+    "act": "dream",
+    "solution": "In the realm of dreams beneath the moon, the spirits speak their secrets.",
+    "level": 4
+  },
+  {
+    "signal": "🏔️⛰️🏔️",
+    "act": "climb",
+    "solution": "By climbing the sacred mountain peaks, one sees beyond the clouds of doubt.",
+    "level": 5
+  },
+  {
+    "signal": "🌅🌄🌅",
+    "act": "dawn",
+    "solution": "At the breaking of dawn's first light, new understanding rises with the sun.",
+    "level": 6
+  },
+  {
+    "signal": "🌲🌲🌲",
+    "act": "forest",
+    "solution": "Walking through the ancient forest paths, wisdom grows like roots in deep soil.",
+    "level": 7
+  },
+  {
+    "signal": "⚡💫⚡",
+    "act": "storm",
+    "solution": "In the heart of the thundering storm, great power and change are revealed.",
+    "level": 8
+  },
+  {
+    "signal": "🦅🦅🦅",
+    "act": "flight",
+    "solution": "With the eagle's flight above the canyon, true perspective and vision are gained.",
+    "level": 9
+  },
+  {
+    "signal": "⭐🌟⭐",
+    "act": "star",
+    "solution": "Beneath the eternal stars of night, the path of destiny becomes clear.",
+    "level": 10
+  }
+]
