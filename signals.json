@@ -1,62 +1,66 @@
 [
   {
-    "signal": "💨💨💨",
-    "act": "breath",
-    "solution": "In the first breath of morning, wisdom awakens from the sleeping earth.",
+    "signal": "B64 TyBicmF2ZSBuZXcgd29ybGQsIHRoYXQgaGFzIHN1Y2ggcGVvcGxlIGluJ3Qh SHA256:4c48fd3bb9c467ed554c90e757264f4e47d32bb0b0686b0568284ce68e0c0cfc 00000000000000000000000000000000000000000000000 /B64",
+    "act": "5",
+    "solution": "O brave new world, that has such people in’t!",
     "level": 1
   },
   {
-    "signal": "🌊🌊🌊",
-    "act": "water",
-    "solution": "From the flowing waters of the sacred river, clarity is found in reflection.",
+    "signal": "B64 VGhvdSBoYXN0IGNyZWF0ZWQgYSB0aGluZyBzbyBtb25zdHJvdXPigKY= SHA256:518860526031b1519860b983d335f1111c5f9468fed8551bff9686aec6837f41 000000000000000000000000000000000000000000000000000 /B64
+",
+    "act": "5",
+    "solution": "Thou hast created a thing so monstrous",
     "level": 2
   },
   {
-    "signal": "🔥🔥🔥",
-    "act": "fire",
-    "solution": "Through the flames of trial and transformation, truth emerges purified.",
+    "signal": "B64 VGhlIHB1cnBvc2Ugb2YgcGxheWluZ+KApiBpcyB0byBob2xkIGFzICd0d2VyZSB0aGUgbWlycm9yIHVwIHRvIG5hdHVyZS4= SHA256:ef35f33e85a90db0351f2ba10908df684720fe85b6e2f905c31a5471a14d538b 00000000000 /B64
+",
+    "act": "2",
+    "solution": "The purpose of playing is to hold as ’twere the mirror up to nature.",
     "level": 3
   },
   {
-    "signal": "🌙✨🌙",
-    "act": "dream",
-    "solution": "In the realm of dreams beneath the moon, the spirits speak their secrets.",
+    "signal": "B64 VGhlcmUgYXJlIG1vcmUgdGhpbmdzIGluIGhlYXZlbiBhbmQgZWFydGgsIEhvcmF0aW8sIHRoYW4gYXJlIGRyZWFtdCBvZiBpbiB5b3VyIHBoaWxvc29waHku MD5:a6df25b954641821d9447ac4108c5fb8 0000000000000000000000 /B64",
+    "act": "1",
+    "solution": "There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy.",
     "level": 4
   },
   {
-    "signal": "🏔️⛰️🏔️",
-    "act": "climb",
-    "solution": "By climbing the sacred mountain peaks, one sees beyond the clouds of doubt.",
+    "signal": "B64 VGhlIHdlYiBvZiBvdXIgbGlmZSBpcyBvZiBhIG1pbmdsZWQgeWFybiwgZ29vZCBhbmQgaWxsIHRvZ2V0aGVyLg== SHA256:2b6c5a786b627b3d14d4413e343a8ff577929f93cba55e6d9bf805ac5fd362a6 0000000000000000000 /B64",
+    "act": "2",
+    "solution": "The web of our life is of a mingled yarn, good and ill together.",
     "level": 5
   },
   {
-    "signal": "🌅🌄🌅",
-    "act": "dawn",
-    "solution": "At the breaking of dawn's first light, new understanding rises with the sun.",
+    "signal": "B64 VGhlcmUncyBubyBhcnQgdG8gZmluZCB0aGUgbWluZCdzIGNvbnN0cnVjdGlvbiBpbiB0aGUgZmFjZS4= SHA256:5e7e33bef4c3ff07e0b0d0c9d9d8bc69f3329066bfa93b4b97095c739858476e 000000000000000000000000000 /B64",
+    "act": "1",
+    "solution": "There’s no art to find the mind’s construction in the face.",
     "level": 6
   },
   {
-    "signal": "🌲🌲🌲",
-    "act": "forest",
-    "solution": "Walking through the ancient forest paths, wisdom grows like roots in deep soil.",
+    "signal": "B64 QnkgbXkgdHJvdGgsIEknbGwgdGVsbCB0aGVlLCBJIGFtIGFsbW9zdCBzaWNrIGZvciBvbmU7IHRob3VnaCBJIHdvdWxkIG5vdCBoYXZlIGl0IGdyb3cgb24gbXkgY2hpbi4= MD5:a9926ed0155a8274f0423383643b702e 0000000000 /B64
+",
+    "act": "3",
+    "solution": "By my troth, I’ll tell thee, I am almost sick for one; though I would not have it grow on my chin",
     "level": 7
   },
   {
-    "signal": "⚡💫⚡",
-    "act": "storm",
-    "solution": "In the heart of the thundering storm, great power and change are revealed.",
+    "signal": "B64 QW5kIHlldCwgdG8gbWUsIHdoYXQgaXMgdGhpcyBxdWludGVzc2VuY2Ugb2YgZHVzdD8gTWFuIGRlbGlnaHRzIG5vdCBtZS4= SHA256:1c31bcadfb2e29142bbfadbe48fa471d9f8727c080831deca9fbe5a8e24aa90f 00000000000 /B64
+",
+    "act": "2",
+    "solution": "And yet, to me, what is this quintessence of dust? Man delights not me.",
     "level": 8
   },
   {
-    "signal": "🦅🦅🦅",
-    "act": "flight",
-    "solution": "With the eagle's flight above the canyon, true perspective and vision are gained.",
+    "signal": "B64 T3VyIGRvdWJ0cyBhcmUgdHJhaXRvcnMsIGFuZCBtYWtlIHVzIGxvc2UgdGhlIGdvb2Qgd2Ugb2Z0IG1pZ2h0IHdpbiBieSBmZWFyaW5nIHRvIGF0dGVtcHQu MD5:ebf68f1f96e2461a156f0a7e5e89fc87 0000000000000000000000 /B64",
+    "act": "2",
+    "solution": "Our doubts are traitors, and make us lose the good we oft might win by fearing to attempt.",
     "level": 9
   },
   {
-    "signal": "⭐🌟⭐",
-    "act": "star",
-    "solution": "Beneath the eternal stars of night, the path of destiny becomes clear.",
+    "signal": "B64 V2UgYXJlIHN1Y2ggc3R1ZmYgYXMgZHJlYW1zIGFyZSBtYWRlIG9uLCBhbmQgb3VyIGxpdHRsZSBsaWZlIGlzIHJvdW5kZWQgd2l0aCBhIHNsZWVwLiBBRiAyMDI1 MD5:6a9ca020e00921e30849add411165ed8 000000000000000000 /B64",
+    "act": "2",
+    "solution": "We are such stuff as dreams are made on, and our little life is rounded with a sleep.",
     "level": 10
   }
 ]
